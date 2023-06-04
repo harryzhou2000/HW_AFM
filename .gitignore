@@ -5,4 +5,7 @@
 *.gz
 *.aux
 *.asv
-
+*.bbl
+*.blg
+*.ppt
+*.mp4
